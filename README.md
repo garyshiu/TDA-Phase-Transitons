@@ -1,5 +1,4 @@
-# TDA-Spin-Models
-# Header
+# TDA-Phase-Transitions
 
 Some text
 
