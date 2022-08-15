@@ -1,10 +1,10 @@
 # TDA-Phase-Transitions
 
-Some text
+A suite for analyzing phase transitions using Topological Data Analysis (TDA).
 
-## Project 1
+## TDA-Spin-Models
 
-Description
+A package developed by Gregory Loges for analayzing phase transitions of spin systems using TDA.
 
 [A link to TDA-spins](https://github.com/gloges/TDA-Spin-Models)
 
